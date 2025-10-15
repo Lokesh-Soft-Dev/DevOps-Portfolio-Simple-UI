@@ -1,6 +1,6 @@
 ## DevOps Portfolio Deployment on EC2
 
-## Live link - https://lokesh-soft-dev.github.io/DevOps-Portfolio-Simple-UI/
+## Live - https://lokesh-soft-dev.github.io/DevOps-Portfolio-Simple-UI/
 
 This project demonstrates deploying a personal portfolio website on an AWS EC2 instance using Git for version control. The task involves merging a feature branch into the `main` branch (default was `master`), updating `index.html` with new content, and committing/pushing the changes to the GitHub repository.
 
