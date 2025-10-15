@@ -1,4 +1,4 @@
-# DevOps Portfolio Deployment on EC2
+## DevOps Portfolio Deployment on EC2
 
 ## Live link - https://lokesh-soft-dev.github.io/DevOps-Portfolio-Simple-UI/
 
